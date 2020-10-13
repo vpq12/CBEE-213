@@ -1,2 +1,2 @@
 # CBEE-213
-Statistical Control 
+Statistical Control for Chemical Engineers
